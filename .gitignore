@@ -16,4 +16,7 @@ __pycache__/
 .idea/
 .omx/
 .venv/
+venv/
 src_w_solution/
+.hf-cache/
+.sentence-transformers/
